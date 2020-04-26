@@ -164,6 +164,6 @@ if 1%debug_mode==true
     
     %     xlim([1526,1536])
     
-    keyboard
+    %keyboard
 end
 
